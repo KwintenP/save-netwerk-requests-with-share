@@ -1,0 +1,5 @@
+<app-character-name [name]="name$ | async"></app-character-name>
+<app-character-birthdate [birthDate]="birthDate$ | async"></app-character-birthdate>
+
+<button type="button" (click)="toggleEnabled()">Enable gender component</button>
+<app-character-gender *ngIf="enabled" [gender]="gender$ | async"></app-character-gender>
