@@ -1,6 +1,6 @@
 ## How share() can reduce network requests
 
-Repository with example code for this blogpost: http://blog.kwintenp.com/p/48ca20b1-9c72-49ca-9c74-cea8fc28717e/ 
+Repository with example code for this blogpost: https://blog.kwintenp.com/how-share-can-reduce-network-requests/
 
 #### Building the code
 
